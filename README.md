@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gtmans
-- 👀 I’m interested in      Arduino ESP32 home automation 3D printing
-- 🌱 I’m currently learning Arduino ESP32 home automation 3D printing
-- 💞️ I’m looking to collaborate on Arduino ESP32 home automation 3D printing
-- 📫 How to reach me ... Twitter @mansfilmt Instagram mansautomatiseert, mansprint3D, mansfotografeert, Thingiverse gtmans
+- 👋 Hi, I’m @gtmans I started Arduino & 3D printing age 60+ and am learning every day live in the Netherlands
+- 👀 I’m interested in      Arduino ESP32 home automation 3D printing tinkercad prusaMK3s
+- 🌱 I’m currently learning Arduino ESP32 home automation 3D printing tinkercad prusaMK3s
+- 💞️ I’m looking to collaborate on Arduino ESP32 home automation 3D printing tinkercad prusaMK3s
+- 📫 How to reach me ... Twitter @mansfilmt Instagram mansautomatiseert, mansprint3D, Thingiverse gtmans, Tinkercad gtmans
 
 <!---
 gtmans/gtmans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
